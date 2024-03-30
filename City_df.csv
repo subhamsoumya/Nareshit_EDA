@@ -1,0 +1,1107 @@
+City,Count
+Los Angeles,293
+San Diego,285
+San Jose,112
+Sacramento,108
+San Francisco,104
+Fresno,61
+Long Beach,60
+Oakland,52
+Escondido,51
+Stockton,44
+Fallbrook,43
+Glendale,40
+Bakersfield,39
+Temecula,38
+Riverside,32
+Berkeley,32
+Pasadena,30
+Whittier,30
+Anaheim,28
+San Bernardino,28
+Modesto,28
+Santa Barbara,28
+Irvine,28
+Torrance,25
+Inglewood,25
+Burbank,25
+Santa Monica,25
+Santa Rosa,24
+Santa Ana,24
+Chula Vista,22
+Rancho Cucamonga,20
+North Hollywood,20
+Van Nuys,20
+Garden Grove,20
+Orange,20
+Salinas,20
+Corona,20
+Lakewood,17
+Redwood City,16
+Palo Alto,16
+Huntington Beach,16
+Moreno Valley,16
+Newport Beach,16
+Palmdale,16
+Santa Cruz,16
+San Mateo,16
+Concord,16
+Fullerton,16
+Hayward,16
+Fremont,16
+Vallejo,16
+Gardena,15
+Downey,15
+Covina,15
+Beverly Hills,15
+Compton,15
+Ontario,15
+Pomona,15
+West Covina,15
+El Cajon,12
+Sunnyvale,12
+Sun City,12
+Los Gatos,12
+Novato,12
+Fontana,12
+Lancaster,12
+Walnut Creek,12
+Mountain View,12
+Redding,12
+Richmond,12
+Oxnard,12
+San Leandro,12
+Santa Maria,12
+Hemet,12
+Roseville,12
+Santa Clara,12
+Ventura,12
+Chico,12
+Visalia,11
+Oceanside,11
+La Mesa,10
+Woodland Hills,10
+El Monte,10
+Sherman Oaks,10
+San Pedro,10
+Culver City,10
+Northridge,10
+Encino,10
+Carson,10
+Malibu,10
+Upland,10
+Arcadia,10
+Glendora,10
+Monterey Park,10
+Canoga Park,10
+Thousand Oaks,10
+Buena Park,10
+Valencia,10
+Redondo Beach,10
+Spring Valley,10
+Alhambra,9
+Indio,9
+La Puente,9
+Desert Hot Springs,9
+Vista,9
+Palm Springs,9
+San Gabriel,9
+Rancho Santa Fe,9
+Manteca,8
+Rialto,8
+Vacaville,8
+Citrus Heights,8
+Yorba Linda,8
+Tustin,8
+Oroville,8
+Palm Desert,8
+Woodland,8
+Mission Viejo,8
+Carlsbad,8
+Madera,8
+Davis,8
+San Rafael,8
+Pleasanton,8
+Victorville,8
+Alameda,8
+Los Altos,8
+Brea,8
+Castro Valley,8
+Petaluma,8
+Grass Valley,8
+San Jacinto,8
+Danville,8
+Elk Grove,8
+Merced,8
+Yuba City,8
+Rocklin,8
+Murrieta,8
+Rancho Cordova,8
+West Sacramento,8
+Frazier Park,8
+San Clemente,8
+Auburn,8
+Lake Elsinore,8
+San Marcos,8
+Daly City,8
+Turlock,8
+Napa,8
+Perris,8
+Costa Mesa,8
+Lodi,8
+Clovis,8
+Camarillo,8
+Simi Valley,8
+Eureka,8
+San Dimas,8
+San Luis Obispo,7
+Redlands,7
+Lompoc,6
+Chatsworth,5
+Norwalk,5
+Hawthorne,5
+La Crescenta,5
+Azusa,5
+Twentynine Palms,5
+Bell,5
+Cabazon,5
+Huntington Park,5
+Winnetka,5
+Sun Valley,5
+Altadena,5
+La Verne,5
+Rowland Heights,5
+Morongo Valley,5
+Santa Ysabel,5
+Calabasas,5
+Lynwood,5
+Heber,5
+Walnut,5
+Poway,5
+Montebello,5
+Pine Valley,5
+Stanton,5
+Coronado,5
+Pioneertown,5
+Palo Verde,5
+Tujunga,5
+Surfside,5
+Porter Ranch,5
+Topanga,5
+South Gate,5
+Sierra Madre,5
+Sunset Beach,5
+Adelanto,5
+Santa Fe Springs,5
+Granada Hills,5
+Playa Del Rey,5
+White Water,5
+Earp,5
+Stevenson Ranch,5
+La Mirada,5
+Temple City,5
+Lemon Grove,5
+Yucca Valley,5
+Seal Beach,5
+Alpine,5
+Chino Hills,5
+Sylmar,5
+West Hollywood,5
+Palos Verdes Peninsula,5
+Diamond Bar,5
+Cathedral City,5
+Montrose,5
+Newhall,5
+Santa Clarita,5
+Canyon Country,5
+Hacienda Heights,5
+Lomita,5
+Valley Village,5
+Pacoima,5
+Calexico,5
+Brawley,5
+Salton City,5
+Maywood,5
+Amboy,5
+National City,5
+South Pasadena,5
+Calipatria,5
+North Hills,5
+Tarzana,5
+Desert Center,5
+La Palma,5
+Mecca,5
+San Marino,5
+Rancho Mirage,5
+La Quinta,5
+Mira Loma,5
+Duarte,5
+El Segundo,5
+Mt Baldy,5
+San Fernando,5
+Beaumont,5
+Artesia,5
+Paramount,5
+El Centro,5
+Manhattan Beach,5
+Cypress,5
+San Ysidro,5
+Wilmington,5
+Newbury Park,5
+Banning,5
+La Canada Flintridge,5
+Lawndale,5
+Avalon,5
+Mission Hills,5
+Harbor City,5
+Pacific Palisades,5
+Pico Rivera,5
+Cerritos,5
+Castaic,5
+Potrero,5
+Monrovia,5
+Claremont,5
+Thousand Palms,5
+Montclair,5
+Agoura Hills,5
+South El Monte,5
+Oak Park,5
+Westlake Village,5
+Studio City,5
+Marina Del Rey,5
+Bellflower,5
+Baldwin Park,5
+Tecate,5
+Descanso,5
+Venice,5
+Rosemead,5
+La Habra,5
+Hawaiian Gardens,5
+Warner Springs,5
+Rancho Palos Verdes,5
+Chino,5
+Hermosa Beach,5
+Sunland,5
+Los Alamitos,5
+West Hills,5
+Reseda,5
+Weimar,4
+Raymond,4
+Running Springs,4
+Sutter,4
+Goodyears Bar,4
+Hercules,4
+Mccloud,4
+Pope Valley,4
+Meridian,4
+Bonita,4
+Lucerne,4
+Tomales,4
+Lamont,4
+Dinuba,4
+Bayside,4
+March Air Reserve Base,4
+Little River,4
+Blythe,4
+Lookout,4
+Yucaipa,4
+San Juan Bautista,4
+Big Pine,4
+Olancha,4
+Sebastopol,4
+Madeline,4
+Kernville,4
+Chualar,4
+Orinda,4
+Woody,4
+Kerman,4
+Benton,4
+Davenport,4
+Dunnigan,4
+Termo,4
+Suisun City,4
+Traver,4
+North Fork,4
+Miranda,4
+Catheys Valley,4
+Elk Creek,4
+Mammoth Lakes,4
+Mount Laguna,4
+Mcarthur,4
+Lemoore,4
+Auberry,4
+California City,4
+Blocksburg,4
+Orosi,4
+Ben Lomond,4
+Lemon Cove,4
+Willow Creek,4
+Arbuckle,4
+Buttonwillow,4
+Igo,4
+Mariposa,4
+Weott,4
+Burson,4
+Exeter,4
+Cloverdale,4
+Aptos,4
+Campo Seco,4
+Menifee,4
+Stevinson,4
+Westminster,4
+Big Bend,4
+Watsonville,4
+Westmorland,4
+Diamond Springs,4
+Paskenta,4
+Albion,4
+Newport Coast,4
+Goleta,4
+San Pablo,4
+Isleton,4
+Delhi,4
+Menlo Park,4
+Greenwood,4
+Carpinteria,4
+Cayucos,4
+Valley Ford,4
+Piercy,4
+Lathrop,4
+Point Arena,4
+Pebble Beach,4
+Gasquet,4
+Keene,4
+Belvedere Tiburon,4
+Carmel,4
+Arnold,4
+Placerville,4
+Manchester,4
+Smith River,4
+Pioneer,4
+Julian,4
+Kyburz,4
+Miramonte,4
+The Sea Ranch,4
+Templeton,4
+Tranquillity,4
+Mineral,4
+Port Costa,4
+Clipper Mills,4
+Blairsden Graeagle,4
+Castella,4
+Live Oak,4
+Campo,4
+Crescent Mills,4
+Birds Landing,4
+San Carlos,4
+Loleta,4
+Camptonville,4
+Patterson,4
+Piru,4
+Hat Creek,4
+Carmichael,4
+Red Bluff,4
+Baker,4
+Three Rivers,4
+Porterville,4
+Littlerock,4
+Gualala,4
+Eagleville,4
+Covelo,4
+Fountain Valley,4
+Marysville,4
+Weaverville,4
+Earlimart,4
+Healdsburg,4
+Strawberry Valley,4
+Navarro,4
+Ramona,4
+Rio Vista,4
+Millbrae,4
+Needles,4
+Camino,4
+Pacifica,4
+Solana Beach,4
+Villa Park,4
+Chilcoot,4
+Hume,4
+Yountville,4
+Dublin,4
+Caruthers,4
+El Nido,4
+Antioch,4
+Rio Nido,4
+Sloughhouse,4
+Pleasant Hill,4
+Pacific Grove,4
+Lytle Creek,4
+Trinity Center,4
+Hughson,4
+Clayton,4
+Union City,4
+Selma,4
+Marina,4
+Newcastle,4
+O Neals,4
+Corning,4
+Laguna Hills,4
+Potter Valley,4
+Geyserville,4
+Ripon,4
+Tehama,4
+Nipomo,4
+Paynes Creek,4
+Echo Lake,4
+Gazelle,4
+Dillon Beach,4
+Bella Vista,4
+California Hot Springs,4
+Brooks,4
+Lagunitas,4
+Homeland,4
+La Honda,4
+Witter Springs,4
+Willits,4
+Princeton,4
+King City,4
+Emigrant Gap,4
+Ukiah,4
+Carmel By The Sea,4
+Sausalito,4
+Idyllwild,4
+Marshall,4
+Nuevo,4
+Mill Valley,4
+Walnut Grove,4
+Nipton,4
+Lockeford,4
+Ducor,4
+Delano,4
+Nubieber,4
+Bieber,4
+Corte Madera,4
+Markleeville,4
+Philo,4
+Saint Helena,4
+Brownsville,4
+Lower Lake,4
+Avenal,4
+San Quentin,4
+Glencoe,4
+Durham,4
+Albany,4
+French Camp,4
+Larkspur,4
+Olema,4
+Casmalia,4
+Fields Landing,4
+Galt,4
+Litchfield,4
+North San Juan,4
+Arvin,4
+Loyalton,4
+Tupman,4
+Llano,4
+Penngrove,4
+Quincy,4
+Dunsmuir,4
+Greenfield,4
+Arroyo Grande,4
+Macdoel,4
+Wildomar,4
+Springville,4
+Crestline,4
+Soulsbyville,4
+Summerland,4
+Elmira,4
+Escalon,4
+Long Barn,4
+Bass Lake,4
+Courtland,4
+Lake Arrowhead,4
+Millville,4
+Atwater,4
+Pinole,4
+Gustine,4
+Hanford,4
+Valley Springs,4
+Shingletown,4
+Fair Oaks,4
+Laguna Beach,4
+Tracy,4
+Rio Linda,4
+Portola Valley,4
+Forest Falls,4
+Fillmore,4
+Annapolis,4
+Daggett,4
+Joshua Tree,4
+Oak View,4
+Lincoln,4
+Bolinas,4
+La Jolla,4
+Five Points,4
+Sugarloaf,4
+Orland,4
+Scott Bar,4
+Independence,4
+Laton,4
+Applegate,4
+Ballico,4
+Apple Valley,4
+Granite Bay,4
+Laguna Niguel,4
+Doyle,4
+Myers Flat,4
+Dulzura,4
+Knights Landing,4
+Sierraville,4
+Browns Valley,4
+Caliente,4
+Twain,4
+Angels Camp,4
+Santa Paula,4
+Grand Terrace,4
+Tollhouse,4
+Mountain Center,4
+Downieville,4
+Stirling City,4
+Winterhaven,4
+El Cerrito,4
+Alleghany,4
+Paso Robles,4
+Greenview,4
+Soda Springs,4
+Winton,4
+Mount Hamilton,4
+Los Banos,4
+Bonsall,4
+Helm,4
+Lebec,4
+Kirkwood,4
+Guadalupe,4
+Caspar,4
+Duncans Mills,4
+Hopland,4
+Platina,4
+Rio Oso,4
+Mc Kittrick,4
+Sutter Creek,4
+Morro Bay,4
+Stinson Beach,4
+Salyer,4
+Garden Valley,4
+Foresthill,4
+Silverado,4
+Hathaway Pines,4
+Coulterville,4
+Lakeside,4
+Bradley,4
+Taft,4
+Occidental,4
+Mountain Ranch,4
+Petrolia,4
+Sunol,4
+Bridgeville,4
+San Andreas,4
+Dobbins,4
+Moss Landing,4
+Blue Lake,4
+Lakeport,4
+Huron,4
+Linden,4
+Scotia,4
+Newark,4
+Glennville,4
+Jackson,4
+Fowler,4
+Los Osos,4
+Travis Afb,4
+Mill Creek,4
+San Bruno,4
+Belmont,4
+Paicines,4
+Sonoma,4
+Lake Isabella,4
+Kneeland,4
+Burlingame,4
+Moraga,4
+Williams,4
+Cardiff By The Sea,4
+Wishon,4
+San Geronimo,4
+Esparto,4
+Keyes,4
+Trabuco Canyon,4
+Pollock Pines,4
+Reedley,4
+Maxwell,4
+New Cuyama,4
+Crockett,4
+Stratford,4
+Rosamond,4
+Redwood Valley,4
+Strathmore,4
+Hornbrook,4
+Raisin City,4
+Mad River,4
+Upper Lake,4
+Thermal,4
+Capay,4
+Felton,4
+Lewiston,4
+Anza,4
+Forest Ranch,4
+Montgomery Creek,4
+Leggett,4
+Rough And Ready,4
+Hornitos,4
+Dixon,4
+Flournoy,4
+Lafayette,4
+Spreckels,4
+Whitmore,4
+Herald,4
+Guerneville,4
+Imperial Beach,4
+Benicia,4
+Biola,4
+Chester,4
+Hilmar,4
+Seeley,4
+Penn Valley,4
+Etna,4
+Canyon Dam,4
+Fort Irwin,4
+Sultana,4
+Guinda,4
+Sonora,4
+Herlong,4
+Callahan,4
+Bodega,4
+Denair,4
+Wrightwood,4
+Monterey,4
+Jamestown,4
+Campbell,4
+Alderpoint,4
+Oak Run,4
+Madison,4
+Cedarville,4
+Kelseyville,4
+Orangevale,4
+Pinecrest,4
+Beale Afb,4
+Greenville,4
+Fort Bragg,4
+Mount Hermon,4
+Taylorsville,4
+Loma Mar,4
+Bangor,4
+Willows,4
+Mather,4
+Fairfax,4
+Phelan,4
+Placentia,4
+Branscomb,4
+Winters,4
+Oro Grande,4
+Yreka,4
+Elverta,4
+Dutch Flat,4
+Mi Wuk Village,4
+Milpitas,4
+Half Moon Bay,4
+Gold Run,4
+Dos Rios,4
+Somerset,4
+Adin,4
+Butte City,4
+Kingsburg,4
+Cool,4
+June Lake,4
+Colton,4
+Carmel Valley,4
+Big Bear Lake,4
+Pala,4
+Newman,4
+Elk,4
+Chowchilla,4
+Hydesville,4
+Monte Rio,4
+Graton,4
+Shafter,4
+San Simeon,4
+Olivehurst,4
+Ranchita,4
+Dunlap,4
+Comptche,4
+Soquel,4
+Shasta Lake,4
+Wasco,4
+Murphys,4
+Ferndale,4
+Arcata,4
+Ceres,4
+Wilton,4
+Douglas City,4
+Smartville,4
+Coarsegold,4
+Aguanga,4
+Alviso,4
+Seaside,4
+Orleans,4
+Nevada City,4
+Essex,4
+Orick,4
+Grenada,4
+Randsburg,4
+Valyermo,4
+Cambria,4
+Round Mountain,4
+Klamath,4
+Angwin,4
+Le Grand,4
+Redway,4
+Big Oak Flat,4
+North Highlands,4
+Glenhaven,4
+Fairfield,4
+Atascadero,4
+South Dos Palos,4
+Planada,4
+Moorpark,4
+Solvang,4
+Boron,4
+Crows Landing,4
+Tuolumne,4
+Del Rey,4
+Landers,4
+Armona,4
+Clarksburg,4
+Scotts Valley,4
+West Point,4
+Kenwood,4
+Inverness,4
+Ojai,4
+Martinez,4
+Midpines,4
+Sheridan,4
+Antelope,4
+Los Olivos,4
+Woodlake,4
+Point Reyes Station,4
+Morgan Hill,4
+Ahwahnee,4
+Carnelian Bay,4
+Alpaugh,4
+Keeler,4
+Korbel,4
+Parlier,4
+Glen Ellen,4
+Moss Beach,4
+San Martin,4
+Yermo,4
+El Portal,4
+Calistoga,4
+Farmington,4
+Tulelake,4
+Coleville,4
+Salida,4
+Mckinleyville,4
+Atherton,4
+Snelling,4
+Garberville,4
+El Dorado Hills,4
+San Lucas,4
+Hoopa,4
+Samoa,4
+Burnt Ranch,4
+Milford,4
+Anderson,4
+Santa Margarita,4
+Ione,4
+Winchester,4
+Norco,4
+Thornton,4
+Lake Hughes,4
+San Juan Capistrano,4
+Copperopolis,4
+Colusa,4
+Gonzales,4
+Gilroy,4
+South San Francisco,4
+Vernalis,4
+Stanford,4
+Encinitas,4
+Darwin,4
+Capitola,4
+Calimesa,4
+Fulton,4
+Middletown,4
+Lost Hills,4
+Groveland,4
+Hyampom,4
+Livingston,4
+Tulare,4
+Buellton,4
+Midway City,4
+Folsom,4
+San Anselmo,4
+Bodega Bay,4
+Challenge,4
+Fortuna,4
+Rescue,4
+Clio,4
+Lotus,4
+Pilot Hill,4
+Pescadero,4
+Aromas,4
+Badger,4
+Death Valley,4
+Riverdale,4
+Berry Creek,4
+Bishop,4
+Grover Beach,4
+Foothill Ranch,4
+Old Station,4
+Hinkley,4
+Fellows,4
+Prather,4
+Emeryville,4
+Pearblossom,4
+Sequoia National Park,4
+Kings Beach,4
+Canby,4
+Lake Forest,4
+Aliso Viejo,4
+Cottonwood,4
+Firebaugh,4
+Washington,4
+Redcrest,4
+Standish,4
+San Ramon,4
+Mount Shasta,4
+Weldon,4
+Rancho Santa Margarita,4
+Oakdale,4
+Olympic Valley,4
+Edwards,4
+Deer Park,4
+Pinon Hills,4
+Mc Farland,4
+Fish Camp,4
+Somis,4
+Rodeo,4
+Grizzly Flats,4
+Brisbane,4
+San Joaquin,4
+Imperial,4
+San Miguel,4
+Avila Beach,4
+Wendel,4
+Somes Bar,4
+Rohnert Park,4
+Windsor,4
+Janesville,4
+Jenner,4
+Montara,4
+La Grange,4
+Alamo,4
+Stonyford,4
+Phillipsville,4
+Forest Knolls,4
+Yorkville,4
+Volcano,4
+Ladera Ranch,4
+Rio Dell,4
+Lakeshore,4
+Gerber,4
+Friant,4
+Biggs,4
+Camp Nelson,4
+Tahoe Vista,4
+Brentwood,4
+Acton,4
+Manton,4
+Wallace,4
+Cazadero,4
+Carlotta,4
+Twin Bridges,4
+Creston,4
+Cotati,4
+Sanger,4
+Penryn,4
+Glenn,4
+Oakhurst,4
+Westport,4
+Castroville,4
+Dana Point,4
+Gridley,4
+Corcoran,4
+Dorris,4
+Shandon,4
+Loma Linda,4
+Nicasio,4
+Avery,4
+Susanville,4
+Riverbank,4
+Cantua Creek,4
+Bethel Island,4
+El Sobrante,4
+Mentone,4
+Freedom,4
+San Ardo,4
+Ivanhoe,4
+Nice,4
+Terra Bella,4
+Orange Cove,4
+Wheatland,4
+Waterford,4
+Cedar Glen,4
+Weed,4
+Cupertino,4
+Palo Cedro,4
+Meadow Vista,4
+Soledad,4
+Hickman,4
+Tehachapi,4
+Forestville,4
+Richvale,4
+Georgetown,4
+Lakehead,4
+Greenbrae,4
+Big Creek,4
+Pleasant Grove,4
+Clearlake Oaks,4
+Paradise,4
+Alta,4
+Los Molinos,4
+Calpine,4
+Big Bar,4
+Dos Palos,4
+Mokelumne Hill,4
+Hesperia,4
+Jolon,4
+Clearlake,4
+Bodfish,4
+Parker Dam,4
+Fiddletown,4
+Squaw Valley,4
+Santa Ynez,4
+Forbestown,4
+Wilseyville,4
+Capistrano Beach,4
+Port Hueneme,4
+Clements,4
+Acampo,4
+Nicolaus,4
+Plymouth,4
+Pittsburg,4
+Loomis,4
+Forks Of Salmon,4
+River Pines,4
+Corona Del Mar,4
+Kettleman City,4
+Posey,4
+Laytonville,4
+Cutler,4
+Helendale,4
+North Palm Springs,4
+Shingle Springs,4
+Saratoga,4
+Woodacre,4
+Trinidad,4
+Cassel,4
+Pixley,4
+Columbia,4
+Sheep Ranch,4
+Hamilton City,4
+Pine Grove,4
+Livermore,4
+Lucerne Valley,4
+Honeydew,4
+Coalinga,4
+Cressey,4
+Burney,4
+Sierra City,4
+Junction City,4
+Oakley,4
+Magalia,4
+Woodbridge,4
+Twain Harte,4
+Richgrove,4
+Klamath River,4
+Zenia,4
+Grimes,4
+Ocotillo,4
+San Lorenzo,4
+Hood,4
+Byron,4
+Coachella,4
+Vallecito,4
+Farmersville,4
+Boulder Creek,4
+Oregon House,4
+Fall River Mills,4
+Shoshone,4
+Brookdale,4
+Palermo,4
+Amador City,4
+Lindsay,4
+Happy Camp,4
+Lockwood,4
+French Gulch,4
+Meadow Valley,4
+Boonville,4
+Shaver Lake,4
+San Gregorio,4
+Colfax,4
+Mendocino,4
+El Dorado,4
+Angelus Oaks,4
+Guatay,4
+Westwood,4
+Cobb,4
+Fawnskin,4
+Bridgeport,4
+Lee Vining,4
+Highland,3
+Ravendale,3
+Alturas,3
+Santee,3
+Mojave,3
+Shasta,3
+Fort Bidwell,3
+Bloomington,3
+Wofford Heights,3
+Barstow,3
+Big Bear City,3
+Ludlow,3
+Palomar Mountain,3
+Pauma Valley,3
+Green Valley Lake,3
+Vina,3
+Indian Wells,3
+Valley Center,3
+Del Mar,3
+Portola,3
+Jamul,3
+Homewood,3
+Likely,3
+Borrego Springs,3
+Pismo Beach,3
+Topaz,3
+Tahoe City,3
+Seiad Valley,3
+Oceano,3
+Davis Creek,3
+Tahoma,3
+Los Alamos,3
+Niland,3
+Boulevard,3
+Johannesburg,2
+South Lake Tahoe,2
+Jacumba,2
+Holtville,2
+Eldridge,2
